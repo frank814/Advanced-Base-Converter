@@ -116,7 +116,7 @@ The **Advanced Number Base Converter** is a sophisticated Python-based tool desi
 ### Method 1: Clone from GitHub
 
 ```bash
-git clone https://github.com/frank486/advanced-number-base-converter.git
+git clone https://github.com/ArthurFrank814/advanced-number-base-converter.git
 cd advanced-number-base-converter
 pip install -r requirements.txt
 ```
