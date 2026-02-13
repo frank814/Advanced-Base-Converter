@@ -1,6 +1,6 @@
 """
 Advanced Number Base Converter - Setup Script
-Author: Arthur Frank
+Author: Frank Arthur
 Version: 2.0.0
 """
 
@@ -12,9 +12,9 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="advanced-number-base-converter",
     version="2.0.0",
-    author="Arthur Frank",
-    author_email="*****@example.com",
-    url="https://github.com/ArthurFrank814/advanced-number-base-converter",
+    author="Frank Arthur",
+    author_email="frank@example.com",
+    url="https://github.com/frank814/advanced-number-base-converter",
     description="Advanced tool for converting between decimal, binary, octal, hexadecimal, and other number systems",
     long_description="""
 Advanced Number Base Converter
@@ -32,11 +32,11 @@ Features:
 - Multiple output formats
 - Dark mode support
 
-Author: Arthur Frank
+Author: Frank
 Version: 2.0.0
     """,
     long_description_content_type="text/markdown",
-    url="https://github.com/ArthurFrank814/advanced-number-base-converter",
+    url="https://github.com/Frank/advanced-number-base-converter",
     py_modules=["bin_dec_converter"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -63,8 +63,8 @@ Version: 2.0.0
     },
     keywords="number-base-converter binary decimal octal hexadecimal ascii unicode floating-point",
     project_urls={
-        "Bug Reports": "https://github.com/ArthurFrank814/advanced-number-base-converter/issues",
-        "Source": "https://github.com/ArthurFrank814/advanced-number-base-converter",
-        "Documentation": "https://github.com/ArthurFrank814/advanced-number-base-converter#readme",
+        "Bug Reports": "https://github.com/frank814/advanced-number-base-converter/issues",
+        "Source": "https://github.com/frank814/advanced-number-base-converter",
+        "Documentation": "https://github.com/frank814/advanced-number-base-converter#readme",
     },
 )
