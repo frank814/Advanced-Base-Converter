@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
-![Author](https://img.shields.io/badge/author-Arthur%20Frank-purple.svg)
+![Author](https://img.shields.io/badge/author-Arthur%20ArthurFrank-purple.svg)
 
 **A professional tool for converting between decimal, binary, octal, hexadecimal, and other number systems.**
 
