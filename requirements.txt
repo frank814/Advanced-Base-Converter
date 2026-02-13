@@ -1,0 +1,16 @@
+# Advanced Number Base Converter - Python Dependencies
+# Author: Frank
+# Version: 2.0.0
+
+# Core dependencies
+colorama>=0.4.6
+
+# Optional dependencies (uncomment to use)
+# For enhanced functionality
+# numpy>=1.26.0  # For advanced mathematical operations
+# matplotlib>=3.8.0  # For visualizing number base conversions
+
+# For development
+# pytest>=7.4.0  # For testing
+# black>=23.10.0  # For code formatting
+# flake8>=6.1.0  # For code linting
